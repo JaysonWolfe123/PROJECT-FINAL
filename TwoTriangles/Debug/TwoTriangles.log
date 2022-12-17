@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(304,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(386,18): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(525,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(526,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(530,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(531,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(533,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(534,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\TwoTriangles\Source.cpp(544,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TwoTriangles.vcxproj -> C:\Users\Jayson\Downloads\TwoTriangles1_2\TwoTriangles\Debug\TwoTriangles.exe
